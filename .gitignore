@@ -1,8 +1,21 @@
 
-.venv/
+# Python
 __pycache__/
 *.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Environment secrets
 .env
+
+# Raw and processed datasets
 data/raw/*
 data/processed/*
+
+# Keep data directories in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
