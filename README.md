@@ -179,7 +179,7 @@ Cross-Validation
 ----------------
 
 Prior versions of the MovieLens dataset included either pre-computed cross-folds or scripts to perform this computation. We no longer bundle either of these features with the dataset, since most modern toolkits provide this as a built-in feature. If you wish to learn about standard approaches to cross-fold computation in the context of recommender systems evaluation, see [LensKit](http://lenskit.org) for tools, documentation, and open-source code examples.
-=======
+---
 # CineStream — End-to-End Data Engineering Pipeline
 
 ## Project Overview
@@ -270,4 +270,3 @@ Cinestream/
 ## Disclaimer
 
 This project is an independent portfolio project for learning data engineering. MovieLens is the source of the public movie metadata and historical rating data. Any synthetic profiles or watch-history records will be identified as simulated data.
->>>>>>> 99254144fe765a8d996207219ae76cbc3bdf429e
