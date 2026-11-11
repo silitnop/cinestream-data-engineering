@@ -261,8 +261,8 @@ Cinestream/
 * [x] Rating dataset explored
 * [x] Initial data quality checks performed
 * [x] Python inspection script created
-* [ ] PostgreSQL schema and loading process
-* [ ] Data warehouse modeling
+* [x] PostgreSQL schema and loading process
+* [x] Data warehouse modeling
 * [ ] Airflow orchestration
 * [ ] Dashboard development
 * [ ] Automated tests and final documentation
